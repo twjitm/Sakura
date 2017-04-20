@@ -1,0 +1,13 @@
+<resources>
+
+    <style name="AppTheme" parent="android:Theme.Light" />
+<style name="page_title">
+        <item name="android:layout_height">@dimen/page_title_height</item>
+        <item name="android:background">@color/page_title_color</item>
+    </style>
+    
+    <style name="page_title_str">
+        <item name="android:textSize">@dimen/text_size_18</item>
+        <item name="android:textColor">@color/title_str_color</item>
+    </style>
+</resources>

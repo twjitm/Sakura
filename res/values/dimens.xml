@@ -1,0 +1,89 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- 四类字体大小 -->
+    <dimen name="micro_text_size">12sp</dimen>
+    <dimen name="small_text_size">14sp</dimen>
+    <dimen name="medium_text_size">18sp</dimen>
+    <dimen name="large_text_size">22sp</dimen>
+    <!-- 四类字体大小 -->
+
+    <dimen name="height_top_bar">46dp</dimen>
+    <!-- 首页Gallery高度 -->
+    <dimen name="index_gallery_height">120dp</dimen>
+    <!-- 首页Gallery高度 -->
+
+    <dimen name="list_head_height">75dip</dimen>
+    <dimen name="cache_height">70dip</dimen>
+    <dimen name="page_title_height">48dip</dimen>
+    <dimen name="tool_bar_height">35dip</dimen>
+    <dimen name="list_button_height">48dip</dimen>
+    <dimen name="loading_pixel">140dip</dimen>
+    <dimen name="photo_width">110dip</dimen>
+    <dimen name="popmenu_width">120dip</dimen>
+    <dimen name="popmenu_height">200dip</dimen>
+    <dimen name="popmenu_xoff">5dip</dimen>
+    <dimen name="popmenu_yoff">2dip</dimen>
+    <dimen name="circle_size">170dip</dimen>
+    <dimen name="radio_height">30dip</dimen>
+    <dimen name="sugar_mark_height">110dip</dimen>
+    <dimen name="sugar_effect_height">80dip</dimen>
+    <dimen name="target_width">40dip</dimen>
+    <dimen name="target_height">90dip</dimen>
+    <dimen name="indicate_target_height">110dip</dimen>
+    <dimen name="target_input_width">140dip</dimen>
+    <dimen name="target_right_margin">120dip</dimen>
+    <dimen name="target_height_margin">89dip</dimen>
+    <dimen name="indicate_height_margin">109dip</dimen>
+    <dimen name="target_input_margin">69.5dip</dimen>
+    <dimen name="indicate_input_margin">89.5dip</dimen>
+    <dimen name="target_input_margin1">50dip</dimen>
+    <dimen name="indicate_input_margin1">70dip</dimen>
+    <dimen name="target_input_margin2">50.5dip</dimen>
+    <dimen name="chart_min_height">200dip</dimen>
+    <dimen name="horizon_off_set">-55dip</dimen>
+    <dimen name="sugar_add_center">70dip</dimen>
+    <dimen name="equip_width">35dip</dimen>
+    <dimen name="center_value_height">120dip</dimen>
+    <dimen name="plug_width">90dip</dimen>
+    <dimen name="plug_icon_width">40dip</dimen>
+    <dimen name="plug_entry_width">30dip</dimen>
+    <dimen name="dialog_btn_height">50dip</dimen>
+    <dimen name="value_widget">50dip</dimen>
+    <dimen name="main_item_bg">80dip</dimen>
+    <dimen name="stock_width">25dip</dimen>
+    <dimen name="simple_stock_width">14dip</dimen>
+    <dimen name="cache_title_height">90dip</dimen>
+    <dimen name="dimen_date_height">35dip</dimen>
+    <dimen name="dimen_date_height_margin">-30dip</dimen>
+    <dimen name="toolbar">30dip</dimen>
+    <dimen name="clock_width">30dip</dimen>
+    <dimen name="one_top_height">110dip</dimen>
+    <dimen name="simple_circle_size">175dip</dimen>
+    <dimen name="news_img_width">110dip</dimen>
+    <dimen name="news_img_height">80dip</dimen>
+    <dimen name="indicator_width">90dip</dimen>
+    <dimen name="member_width">60dip</dimen>
+    <dimen name="assess_height">40dip</dimen>
+    <dimen name="assess_item_height">15dip</dimen>
+    <dimen name="assess_item_width">40dip</dimen>
+    <dimen name="assess_padding">5dip</dimen>
+    <dimen name="page_sub_title_height">40dip</dimen>
+    <dimen name="matrix_width">67dip</dimen>
+    <dimen name="usercenter_photo_width">75dip</dimen>
+    <dimen name="help_item">48dip</dimen>
+
+    <!-- 字体大小 -->
+
+    <dimen name="text_size_10">10dip</dimen>
+    <dimen name="text_size_12">12dip</dimen>
+    <dimen name="text_size_13">13dip</dimen>
+    <dimen name="text_size_14">14dip</dimen>
+    <dimen name="text_size_15">15dip</dimen>
+    <dimen name="text_size_16">16dip</dimen>
+    <dimen name="text_size_18">18dip</dimen>
+
+</resources>

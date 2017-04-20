@@ -1,0 +1,98 @@
+<resources>
+
+    <color name="contents_text">#ff000000</color>
+    <color name="encode_view">#ffffffff</color>
+    <color name="help_button_view">#ffcccccc</color>
+    <color name="help_view">#ff404040</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="result_image_border">#ffffffff</color>
+    <color name="result_minor_text">#ffc0c0c0</color>
+    <color name="result_points">#c000ff00</color>
+    <color name="result_text">#ffffffff</color>
+    <color name="result_view">#b0000000</color>
+    <color name="sbc_header_text">#ff808080</color>
+    <color name="sbc_header_view">#ffffffff</color>
+    <color name="sbc_list_item">#fffff0e0</color>
+    <color name="sbc_layout_view">#ffffffff</color>
+    <color name="sbc_page_number_text">#ff000000</color>
+    <color name="sbc_snippet_text">#ff4b4b4b</color>
+    <color name="share_text">#ff000000</color>
+    <color name="share_view">#ffffffff</color>
+    <color name="status_view">#50000000</color>
+    <color name="status_text">#ffffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="viewfinder_frame">#ff000000</color>
+    <color name="viewfinder_laser">#ffff0000</color>
+    <color name="viewfinder_mask">#60000000</color>
+
+    <!-- longbh -->
+    <color name="page_title_color">#00733C</color>
+    <color name="page_content_color">#EEEEEE</color>
+    <color name="white_content_color">#FFFFFF</color>
+    <color name="title_str_color">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="curren_day">#432235</color>
+    <color name="month_title">#432235</color>
+    <color name="effect_title_bg">#aaaaaa</color>
+    <color name="sub_title">#eeeeee</color>
+    <color name="main_user_name">#ABAFB2</color>
+    <color name="main_divider_line">#E4E4E4</color>
+    <color name="main_item_text">#7C8187</color>
+    <color name="date_show">#0072BB</color>
+    <color name="input_color">#1C8FDF</color>
+    <color name="black">#333333</color>
+    <color name="effect_label_color">#444444</color>
+    <color name="news_title">#555555</color>
+    <color name="equip_date_color">#8F9396</color>
+    <color name="reback">#FFA2A2</color>
+    
+    <color name="radio_check_color">#00733C</color>
+    <color name="bottom_radio_normal">#236C97</color>
+    <color name="bottom_radio_press">#10537D</color>
+    <color name="effect_title">#EBEBEB</color>
+    <color name="effect_title_str">#717A81</color>
+    <color name="effect_line">#E4E4E4</color>
+    <color name="date_divider">#464259</color>
+    <color name="add_top">#F8F8F8</color>
+    <color name="week_color">#BBBBBB</color>
+     <color name="test_color">#00aebf</color>
+    
+    <!-- 血糖变化趋势 -->
+    <color name="trend_down_bad">#FFBE46</color>
+    <color name="trend_down_normal">#00DAA7</color>
+    <color name="trend_up_normal">#00DAA7</color>
+    <color name="trend_up_more">#FFBE46</color>
+    <color name="trend_up_bad">#FF4C4C</color>
+    <color name="un_test">#afb8b5</color>
+    
+    <color name="high_sugar_bg">#FF5152</color>
+    <color name="mid_sugar_bg">#23D9A8</color>
+    <color name="low_sugar_bg">#FFBC51</color>
+    <color name="line_target">#C2C3C7</color>
+    <color name="chart_title">#ebebeb</color>
+    <color name="eat">#ADD98A</color>
+    
+    <!-- 血糖等级颜色 -->
+    <color name="level2">#ffffff</color>
+    <color name="level3">#F34D4D</color>
+    <color name="label_color">#00733C</color>
+    <color name="disable_read">#770000</color>
+    <color name="un_able">#BBBBBB</color>
+    <color name="hint_color">#aaaaaa</color>
+    
+    
+    <!-- 饮食运动等级颜色 -->
+    <color name="ear_color1">#FFBC50</color>
+    <color name="ear_color2">#26D9A9</color>
+    <color name="ear_color3">#FF5152</color>
+    
+    <!-- 运动 饮食 -->
+    <color name="sys_support">#0072BB</color>
+    <color name="calore_net">#23D9A8</color>
+    <color name="eat_color">#9F8392</color>
+    <color name="sport_color">#8CC052</color>
+    <color name="chart_text">#6B6F70</color>
+    <color name="chart_def_color">#E4E4E4</color>
+    <color name="date_view_line">#4DBAFF</color>
+
+</resources>
